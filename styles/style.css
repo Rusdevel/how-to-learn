@@ -45,6 +45,7 @@
   line-height: 96px;
   margin-left: 64px;
   font-weight: bold;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -54,7 +55,7 @@ left: 64px;
 font-size: 18px;
 line-height: 25px;
 width: 388px;
-z-index: 1;
+z-index: 2;
 }
 
 .header__main-illustration {
@@ -66,7 +67,7 @@ z-index: 1;
     background-image: url(../images/header-image.png);
     background-position: center;
     background-size: cover;
-    z-index: 1;;
+    z-index: 1;
 }
 
 .header__link {
