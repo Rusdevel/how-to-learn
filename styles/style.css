@@ -27,121 +27,35 @@
 
 
 
-.section-title_theme_dark {
-    color: #fff;
-    margin: 0;
-}
 
-.section-subtitle_theme_dark {
-  margin-bottom: 0;
-    color: #fff;
-}
 
-.table__heading_theme_dark {
-    line-height: 1.15;
-    font-size: 24px;
-    font-weight: 700;
-    color: #fff;
-}
 
-.table__text_theme_dark {
-    line-height: 1.2;
-    font-size: 18px;
-    font-weight: 400;
-    color: #fff;
-    margin-top: 20px;
-    margin-bottom: 0;
 
-}
 
-.kaufman__triangle {
-    position: absolute;
-    top: 0;
-    right: -210px;
-    background-image: url(../images/kaufman-triangle.svg);
-    background-position: center;
-    background-size: cover;
-    width: 877px;
-    height: 877px;
-    z-index: -1;
-}
 
-.footer {
-    padding: 60px 0 40px 0;
-    background-color: #1f1f1f;
-}
 
-.footer__columns {
-    display: flex;
-    color: #fff;
-    justify-content: space-around;
-    min-height: 350px;
-    width: 90%;
-    margin: auto;
-}
 
-.logo_place_footer {
-    width: 183px;
-    height: 35px;
-    background-image: url(../images/logo_place_footer.svg);
-    background-position: center;
-    background-size: cover;
 
-}
 
-.footer__column_content_copyright {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    flex-basis: 711px;
-    padding: 0;
-}
 
-.footer__author {
-    display: flex;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    margin-bottom: 18px;
-    margin-top: 18px;
-}
 
-.footer__column-heading {
-    margin-bottom:20px;
-    margin-top: 0;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: bold;
-}
 
-.footer__column-links {
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    color: #fff;
-    padding: 0;
-    margin: 20px 0 16px 0;
-    list-style-type: none;
-}
 
-.footer__column-link {
-    color: #fff;
-    text-decoration: none;
-}
 
-.footer__social-icon {
-  margin-right: 10px;
-  width: 16px;
-  height: 16px;
-}
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 
