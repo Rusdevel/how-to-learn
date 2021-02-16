@@ -1,6 +1,10 @@
 .footer__columns {
-  display: flex;
-  margin: auto;
-    color: #fff;
-    justify-content: space-around;
+display: flex;
+width: 90%;
+color: #fff;
+justify-content: space-between;
+padding: 60px 0 40px 0;
+margin: 0 auto;
+box-sizing: border-box;
 }
+
